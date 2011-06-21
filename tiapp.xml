@@ -7,14 +7,14 @@
         <target device="android">true</target>
         <target device="blackberry">false</target>
     </deployment-targets>
-    <id>br.com.appteamdeveloper</id>
-    <name>NiveaPDV</name>
-    <version>1.0</version>
-    <publisher>appteamdeveloper</publisher>
-    <url>http://nivea.com.br</url>
-    <description>Nivea PDV</description>
-    <copyright>2011 by mike_caos</copyright>
-    <icon>appicon.png</icon>
+<id>br.com.appteamdeveloper</id>
+<name>NiveaPDV</name>
+<version>1.0</version>
+<publisher>appteamdeveloper</publisher>
+<url>http://nivea.com.br</url>
+<description>Nivea PDV</description>
+<copyright>2011 by mike_caos</copyright>
+<icon>default_app_logo.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
     <statusbar-style>default</statusbar-style>
